@@ -1,5 +1,5 @@
-# **Operadores-relacionais**
-## **Operadores utilizados em álgebra relacional**
+# **Operadores Relacionais**
+## **Operadores utilizados em Álgebra Relacional**
 * U = União
 * ∩ = Intersecção
 * － = Diferença
