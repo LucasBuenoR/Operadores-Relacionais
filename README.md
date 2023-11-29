@@ -9,6 +9,8 @@
 * |X| = Junção
 * π = Projeção *= 'SELECT' em SQL*
 * ρ = Renomeação
+#### *Playlist de Álgebra Relacional - Téoria e Exercícios*
+* https://youtube.com/playlist?list=PLdoTFRH60cIDTo_-mZvnuwg_uJeMbu6ZP&si=sYZUUjHCWwHnFO7l
 
 ## **Normalização de Banco de Dados**
 #### *Normalização e Anomalias - Conceitos*
